@@ -1,0 +1,28 @@
+# Dataset and large csv files
+dataset/
+data/
+*.csv
+*.txt
+
+# Serialization models
+backend/models/*.pkl
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.pytest_cache/
+venv/
+.venv/
+env/
+
+# Node
+node_modules/
+dist/
+.eslintcache
+
+# Logs & OS files
+*.log
+.DS_Store
+Thumbs.db
