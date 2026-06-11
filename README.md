@@ -1,7 +1,8 @@
 # FlixPulse - Netflix Movie Recommendation & Analytics Dashboard
 
-Drive Link for PPT: https://drive.google.com/file/d/1F8a7w21vFNcLacHcdnEfBNvbEl4l1emF/view?usp=sharing
-Drive link for report: https://drive.google.com/file/d/14KP6bMmIAHwgR44ErCrB5f6Pf8ZKaKe-/view?usp=sharing
+> Drive Link for PPT: https://drive.google.com/file/d/1F8a7w21vFNcLacHcdnEfBNvbEl4l1emF/view?usp=sharing
+
+> Drive link for report: https://drive.google.com/file/d/14KP6bMmIAHwgR44ErCrB5f6Pf8ZKaKe-/view?usp=sharing
 
 FlixPulse is an end-to-end movie recommendation system and interactive dashboard. Built using a dense, high-quality subset of the **Netflix Prize Dataset**, it demonstrates how matrix factorization and collaborative filtering can power real-time, explainable recommendations.
 
